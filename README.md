@@ -1,6 +1,6 @@
 # University_of_TorontoX: UTQML101x
 
-Lecture notes from [edX course](https://www.edx.org/course/quantum-machine-learning) on **Quantum Machine Learning** by Peter Wittek (University_of_TorontoX).
+My slightly modified version of the lecture notebooks (qiskit) and coding assignments from the mooc [edX course](https://www.edx.org/course/quantum-machine-learning) on **Quantum Machine Learning** by Peter Wittek (University_of_TorontoX).
 
 # Modules
 
